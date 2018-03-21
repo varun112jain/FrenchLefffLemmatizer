@@ -3,7 +3,7 @@
 # INPUT_FILE_PATH = ""<path_to_LEFFF_file>/lefff-3.4.mlex""
 # OUTPUT_FILE_PATH = "<path_to_additional_LEFFF_file>/lefff-3.4-addition.mlex"
 # createAdditionalLefffDatafile(INPUT_FILE_PATH,OUTPUT_FILE_PATH)
-
+# backported from Python 3.X to 2.X using 3to2: https://pypi.python.org/pypi/3to2
 from __future__ import with_statement
 from __future__ import absolute_import
 import re
