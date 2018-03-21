@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# backported from Python 3.X to 2.X using 3to2: https://pypi.python.org/pypi/3to2
 from __future__ import with_statement
 from __future__ import absolute_import
 import os
