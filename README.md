@@ -1,7 +1,7 @@
 
 <strong>Introduction</strong>
 
-A French Lemmatizer in Python based on the LEFFF (Lexique des Formes Fléchies du Français / Lexicon of French inflected forms) is a large-scale morphological and syntactic lexicon for French.
+A French Lemmatizer in Python based on the LEFFF (Lexique des Formes Fléchies du Français / Lexicon of French inflected forms) is a large-scale morphological and syntactic lexicon for French forked from ClaudeCoulombe/FrenchLefffLemmatizer to run on Python 2.X.
 
 <strong>Main reference:</strong>
 
@@ -34,9 +34,7 @@ distributed under the License is distributed on an 'AS IS' BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
------
-Warning: Run under Python 3.X but could run with small modifs with Python 2.7X
------
+
 Installation:
 
 1) Download the .zip file and uncompress it
